@@ -1,0 +1,55 @@
+<Solution>
+  <PropertyGroup Name="The_Black_Magic" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Folder Name="model">
+          <File Name="00000000.dds" />
+          <File Name="03.tga" />
+          <File Name="282f3cde.dds" />
+          <File Name="436045d0.dds" />
+          <File Name="442aa7da.dds" />
+          <File Name="5c55aa93.dds" />
+          <File Name="6c311a32.dds" />
+          <File Name="866717a8.dds" />
+          <File Name="8698ab04.dds" />
+          <File Name="96d0e653.dds" />
+          <File Name="97ceae67.dds" />
+          <File Name="9aee9085.dds" />
+          <File Name="a1d2a405.dds" />
+          <File Name="Aurora.fbx" />
+          <Image Name="brick.jpg" />
+          <File Name="c62c72c6.dds" />
+          <File Name="c8a1468b.dds" />
+          <File Name="d20a3c84.dds" />
+          <File Name="d3bb914c.dds" />
+          <File Name="dd490289.dds" />
+          <File Name="dd9b4071.dds" />
+          <File Name="e0a41fc3.dds" />
+          <File Name="e41e8c95.dds" />
+          <File Name="eeb0f602.dds" />
+          <File Name="fbd086fd.dds" />
+          <Image Name="flow-bar.png" />
+          <Image Name="flower2.png" />
+          <Image Name="foliageTreeLeafs.png" />
+          <Image Name="folliageTreeBarks.jpg" />
+          <Image Name="folliageTreeBranches.png" />
+          <Image Name="grass.jpg" />
+          <Image Name="leaf-g.png" />
+          <File Name="lw_a_stonegate01.dds" />
+          <File Name="shugan.tga" />
+          <File Name="shuye.tga" />
+          <Sprite3DFile Name="Aurora.c3b" />
+          <Sprite3DFile Name="Aurora.c3t" />
+          <Sprite3DFile Name="box.c3b" />
+          <Sprite3DFile Name="ground.c3b" />
+          <Sprite3DFile Name="heightmap.c3b" />
+          <Sprite3DFile Name="tree.c3b" />
+        </Folder>
+        <File Name="Scene3D.csb" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
